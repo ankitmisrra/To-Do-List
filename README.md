@@ -4,19 +4,19 @@ A simple and user-friendly To-Do List application built with HTML, CSS, and Java
 
 Features
 
-Add Tasks: Users can quickly add tasks to their list.
-Delete Tasks: Users can remove tasks once they're no longer needed.
-Persistent Data: Use localStorage to save tasks so they remain available even after refreshing the page (if implemented).
-Responsive Design: Mobile-first design ensures usability across different devices.
+Add Tasks: Users can quickly add tasks to their list. 
+Delete Tasks: Users can remove tasks once they're no longer needed. 
+Persistent Data: Use localStorage to save tasks so they remain available even after refreshing the page. 
+Responsive Design: Mobile-first design ensures usability across different devices. 
 
-Technologies Used
+Technologies Used 
 
-HTML: Structure of the application.
-CSS: Styling and layout of the app.
-JavaScript: Interactivity and dynamic functionality.
+HTML: Structure of the application. 
+CSS: Styling and layout of the app. 
+JavaScript: Interactivity and dynamic functionality. 
 
-Usage
+Usage 
 
-Open the app in your browser.
-Add a task in the input field and click the "Add" button.
-Remove tasks by clicking the delete button.
+Open the app in your browser. 
+Add a task in the input field and click the "Add" button. 
+Remove tasks by clicking the delete button. 
